@@ -10,6 +10,4 @@ function1 <- function(x){
   a
 }
 
-setwd("~/Desktop/SP18/MDA/Week6/YXX")
-document()
 
